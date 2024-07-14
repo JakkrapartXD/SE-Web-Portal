@@ -1,3 +1,3 @@
 /node_modules
-.env
-.dbconfig
+.env.js
+.api-backend.js
