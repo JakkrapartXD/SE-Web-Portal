@@ -1,5 +1,5 @@
 /** @format */
-const hostBackend = 'http://127.0.0.1:3000';
+const hostBackend = 'http://192.168.1.10:3000';
 // const hostBackend = 'http://18.139.193.101';
 const urlImage = 'C:/Users/pawit/Desktop/Dev-Ops/CEreform-frond-end/image';
 // C:\Users\pawit\Desktop\Dev-Ops\CEreform-frond-end\image
